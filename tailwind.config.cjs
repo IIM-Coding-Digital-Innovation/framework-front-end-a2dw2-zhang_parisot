@@ -16,10 +16,14 @@ module.exports = {
             fontFamily: {
                 Poppins: ["Poppins"],
                 NeuzeitGro: ["NeuzeitGro"],
+                
             },
             boxShadow: {
               'cardshadow' :'2px 8px 30px rgba(37, 33, 32, 0.06)',
-            }
+            },
+            backgroundImage: {
+              'image1': "./img/body/image_1.png"
+            },
         },
     },
     plugins: [],

@@ -1,23 +1,67 @@
 <script setup>
-// This starter template is using Vue 3 <script setup> SFCs
-// Check out https://vuejs.org/api/sfc-script-setup.html#script-setup
 import HelloWorld from './components/HelloWorld.vue'
 import Card from "./components/card/Card.vue";
 </script>
 
 <template>
-  <div>
-    <a href="https://vitejs.dev" target="_blank">
-      <img src="/vite.svg" class="logo" alt="Vite logo" />
-    </a>
-    <a href="https://vuejs.org/" target="_blank">
-      <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
-    </a>
-  </div>
-  <HelloWorld msg="Vite + Vue" />
-  <div class="ml-[80px]">
-    <Card/>
-  </div>
+  <h2 class="ml-[80px] mb-[30px] font-['NeuzeitGro']">LES PLUS POPULAIRES 🔥</h2>
+  <section class="flex">
+    <div class="ml-[80px]">
+      <Card categorie="Management & Leadership"/>
+    </div>
+    <div class="ml-[30px]">
+      <Card categorie="Vente" />
+    </div>
+    <div class="ml-[30px]">
+      <Card categorie="RH, QVT & DIVERSITÉ" numemoji="3"/>
+    </div>
+    <div class="mr-[80px] ml-[30px]">
+      <Card categorie="Thématique 1" />
+    </div>
+  </section>
+  <h2 class="ml-[80px] mb-[30px] font-['NeuzeitGro']">TOUTES LES FORMATIONS 🚀</h2>
+  <section class="flex">
+    <div class="ml-[80px]">
+      <Card categorie="Thématique 1"/>
+    </div>
+    <div class="ml-[30px]">
+      <Card categorie="Thématique 1" />
+    </div>
+    <div class="ml-[30px]">
+      <Card categorie="Thématique 1" numemoji="3"/>
+    </div>
+    <div class="mr-[80px] ml-[30px]">
+      <Card categorie="Thématique 1" />
+    </div>
+  </section>
+  <section class="flex">
+    <div class="ml-[80px]">
+      <Card categorie="Thématique 1"/>
+    </div>
+    <div class="ml-[30px]">
+      <Card categorie="Thématique 1" />
+    </div>
+    <div class="ml-[30px]">
+      <Card categorie="Thématique 1" numemoji="3"/>
+    </div>
+    <div class="mr-[80px] ml-[30px]">
+      <Card categorie="Thématique 1" />
+    </div>
+  </section>
+  <section class="flex">
+    <div class="ml-[80px]">
+      <Card categorie="Thématique 1"/>
+    </div>
+    <div class="ml-[30px]">
+      <Card categorie="Thématique 1" />
+    </div>
+    <div class="ml-[30px]">
+      <Card categorie="Thématique 1" numemoji="3"/>
+    </div>
+    <div class="mr-[80px] ml-[30px]">
+      <Card categorie="Thématique 1" />
+    </div>
+  </section>
   
 </template>
 
