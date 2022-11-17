@@ -15,7 +15,10 @@ import Card from "./components/card/Card.vue";
     </a>
   </div>
   <HelloWorld msg="Vite + Vue" />
-  <Card title="Mon titre" />
+  <div class="ml-[80px]">
+    <Card/>
+  </div>
+  
 </template>
 
 <style scoped>

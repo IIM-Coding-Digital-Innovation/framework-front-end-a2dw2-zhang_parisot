@@ -17,6 +17,9 @@ module.exports = {
                 Poppins: ["Poppins"],
                 NeuzeitGro: ["NeuzeitGro"],
             },
+            boxShadow: {
+              'cardshadow' :'2px 8px 30px rgba(37, 33, 32, 0.06)',
+            }
         },
     },
     plugins: [],
