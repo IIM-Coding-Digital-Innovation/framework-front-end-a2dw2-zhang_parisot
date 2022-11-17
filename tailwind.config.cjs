@@ -6,6 +6,7 @@ module.exports = {
   ],
   theme: {
     extend: {
+<<<<<<< HEAD
       colors: {
         'black': '#0A0909',
         'white': '#FFFFFF',
@@ -14,6 +15,14 @@ module.exports = {
         'moon_raker' : '#F3EDFB',
       },
     },
+=======
+
+    },
+    fontFamily: {
+      Poppins: ["Poppins"],
+      NeuzeitGro: ["NeuzeitGro"],
+    }
+>>>>>>> a095fa6395fa004f92cca2c515e4225013702140
   },
   plugins: [],
 }
