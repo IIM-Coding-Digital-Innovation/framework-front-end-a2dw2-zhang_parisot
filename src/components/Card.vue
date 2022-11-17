@@ -6,4 +6,13 @@ defineProps(['title'])
 
 <template>
   Mon titre: {{ title }}
+  <a href="#">
+    <div>
+
+    </div>
+    <p></p>
+    <h2></h2>
+    <_Emoji_3/> 
+
+  </a>
 </template>
