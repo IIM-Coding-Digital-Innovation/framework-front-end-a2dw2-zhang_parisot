@@ -1,4 +1,3 @@
-<!-- Voir https://vuejs.org/guide/components/props.html#prop-passing-details -->
 <script setup>
 import Emoji_3 from "/src/components/body/card/Emoji_3.vue";
 import Thematique from "/src/components/body/card/Thematique.vue";

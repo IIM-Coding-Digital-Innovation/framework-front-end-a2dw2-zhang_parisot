@@ -6,7 +6,7 @@ import feedback from "/src/components/body/feedback.vue";
 <template>
     <section class="mt-[606px]">
         <h2 class="ml-[80px] mb-[30px] font-['NeuzeitGro']">LES PLUS POPULAIRES 🔥</h2>
-        <div class="flex mr-[80px] mb-[9px] justify-end gap-5">
+        <div class="flex mr-[80px] mb-6 justify-end gap-5">
             <img src="/img/body/arrow_left.png" alt="">
             <img src="/img/body/arrow_right.png" alt="">
         </div>
