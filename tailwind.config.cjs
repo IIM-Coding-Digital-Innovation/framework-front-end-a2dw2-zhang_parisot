@@ -25,9 +25,6 @@ module.exports = {
                 'shadow-search': '2px 8px 30px rgba(0, 0, 0, 0.06)',
                 'shadow-card': '2px 8px 30px rgba(37, 33, 32, 0.06)',
             },
-            backgroundImage: {
-                'image1': "./img/body/image_1.png"
-            },
         },
     },
     plugins: [],

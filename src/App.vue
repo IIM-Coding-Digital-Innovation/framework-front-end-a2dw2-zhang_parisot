@@ -1,11 +1,10 @@
 <script setup>
 import top from './components/header/top.vue';
-import Card from "./components/card/Card.vue";
+import middle from "./components/middle.vue";
+
 </script>
 
 <template>
   <top/>
-
-
-  
+  <middle/>
 </template>

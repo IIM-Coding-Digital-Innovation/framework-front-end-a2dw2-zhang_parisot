@@ -22,7 +22,7 @@ defineProps()
             <div class="flex flex-row items-start py-3 pl-6 pr-4 gap-2.5 w-[84px] h-[46px] rounded-[8px]">
                 <p class="w-[44px] h-[22px] font-['Poppins'] font-normal text-base leading-[22px] text-[#0A0909]">Filtrer</p>
             </div>
-            <img src="img/body/arrow_bottom.png" alt="bottom arrow">
+            <img src="img/header/arrow_bottom.png" alt="bottom arrow">
         </div>
     </div>
 </div>
