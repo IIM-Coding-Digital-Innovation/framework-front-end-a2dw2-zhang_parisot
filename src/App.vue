@@ -1,9 +1,11 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
+import top from './components/header/top.vue';
 import Card from "./components/card/Card.vue";
 </script>
 
 <template>
+  <top/>
+
   <h2 class="ml-[80px] mb-[30px] font-['NeuzeitGro']">LES PLUS POPULAIRES 🔥</h2>
   <section class="flex">
     <div class="ml-[80px]">
