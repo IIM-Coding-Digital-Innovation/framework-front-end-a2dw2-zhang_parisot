@@ -5,7 +5,7 @@ import feedback from "/src/components/body/feedback.vue";
 
 <template>
     <section class="mt-[606px]">
-        <h2 class="ml-[80px] mb-[30px] font-['NeuzeitGro']">LES PLUS POPULAIRES 🔥</h2>
+        <h2 class="ml-[80px] font-['NeuzeitGro']">LES PLUS POPULAIRES 🔥</h2>
         <div class="flex mr-[80px] mb-6 justify-end gap-5">
             <img src="/img/body/arrow_left.png" alt="">
             <img src="/img/body/arrow_right.png" alt="">
@@ -70,7 +70,7 @@ import feedback from "/src/components/body/feedback.vue";
             <Card abc="/img/body/image_16.png" categorie="Thématique 1" />
         </div>
     </section>
-    <div class="flex justify-end mr-[80px] gap-6 font-semibold font-['Poppins'] leading-[22px]  text-base items-center">
+    <div class="flex justify-end mr-[80px] mt-[30px] gap-6 font-semibold font-['Poppins'] leading-[22px]  text-base items-center">
         <div class="border-[#FF6A60] rounded-full border-2 flex w-[36px] h-[36px] justify-center">
             <p class="text-2xl text-[#FF6A60]">1</p>
         </div>
