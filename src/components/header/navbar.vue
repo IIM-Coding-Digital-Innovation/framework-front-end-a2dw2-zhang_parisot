@@ -3,7 +3,7 @@ defineProps()
 </script>
 
 <template>
-    <a href="#" class="absolute w-[150px] h-[19px] left-[104px] top-[66px]"><img src="src/img/header/header_logo.png" alt=""></a>
+    <a href="#" class="absolute w-[150px] h-[19px] left-[104px] top-[66px]"><img src="img/header/header_logo.png" alt=""></a>
     <!-- <div class="flex flex-row justify-end items-start p-0 gap-6 absolute w-[378px] h-[22px] left-[335px] top-[61px]"> -->
     <div class="flex flex-row justify-end items-start p-0 gap-6 absolute w-[378px] h-[22px] right-[727px] top-[61px]">
         <div class="w-12 h-[22px] font-['Poppins'] font-normal text-base leading-[22px] text-[#FFFFFF]">Offres</div>
