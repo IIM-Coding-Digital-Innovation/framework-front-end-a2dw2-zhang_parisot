@@ -1,6 +1,6 @@
 <script setup>
 import top from './components/header/top.vue';
-import middle from "./components/middle.vue";
+import middle from "./components/body/middle.vue";
 
 </script>
 

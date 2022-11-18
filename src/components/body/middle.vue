@@ -1,5 +1,6 @@
 <script setup>
-import Card from "/src/components/card/Card.vue";
+import Card from "/src/components/body/card/Card.vue";
+import feedback from "/src/components/body/feedback.vue";
 </script>
 
 <template>
@@ -69,7 +70,7 @@ import Card from "/src/components/card/Card.vue";
             <Card abc="/img/body/image_16.png" categorie="Thématique 1" />
         </div>
     </section>
-    <div class="flex justify-end mr-[80px] gap-6 font-semibold font-['Poppins'] leading-[22px] text-base items-center">
+    <div class="flex justify-end mr-[80px] gap-6 font-semibold font-['Poppins'] leading-[22px]  text-base items-center">
         <div class="border-[#FF6A60] rounded-full border-2 flex w-[36px] h-[36px] justify-center">
             <p class="text-2xl text-[#FF6A60]">1</p>
         </div>
@@ -89,5 +90,6 @@ import Card from "/src/components/card/Card.vue";
             <p>8</p>
         </div>
     </div>
+    <feedback/>
 </template>
 

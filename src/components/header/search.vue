@@ -13,7 +13,7 @@ defineProps()
         <div class="absolute w-[40px] h-[42.11px] left-[790px] top-[7px] "><img src="img/header/header_search.png" alt="search"></div>
         <div class="flex flex-row items-center px-6 py-0 gap-2.5 w-[842px] h-[56px] bg-[#F3EDFB] rounded-[30px]">
             <div class="flex flex-row items-start py-3 pl-4 pr-0 gap-2.5 w-[383px] h-[46px] rounded-[8px] ">
-                <p class="w-[287px] h-[22px] righ-[550px] font-['Poppins'] font-normal text-base leading-[22px] text-[#0A0909]">Quelle formation recherchez-vous ?</p>
+                <p class="w-[287px] h-[22px] font-['Poppins'] font-normal text-base leading-[22px] text-[#0A0909]">Quelle formation recherchez-vous ?</p>
             </div>
         </div>
     </div>
