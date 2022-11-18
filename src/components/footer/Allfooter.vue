@@ -6,7 +6,7 @@ defineProps()
 
 <template>
     <section class="bg-[#0A0909] w-[1440px] h-[477px] text-[#FFFFFF]">
-        <h2>Skillsday</h2>
+        <img class=" flex pl-[80px] pt-[102px] pb-[42px]"  src="img/header/header_logo.png" alt="logo Skillday">
         <footerTop/>
         <footerBot/>
     </section>
