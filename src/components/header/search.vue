@@ -5,7 +5,7 @@ defineProps()
 </script>
 
 <template>
-<div class="absolute w-[1122px] h-[105px] left-[159px] top-[409px] bg-white rounded-[30px]"></div>
+<div class="shadow-search absolute w-[1122px] h-[105px] left-[159px] top-[409px] bg-white rounded-[30px]"></div>
 
 
 <div class="absolute w-[1059px] h-[56px] left-[191px] top-[433px]">
@@ -20,3 +20,9 @@ defineProps()
 
 
 </template>
+
+<style scoped>
+.shadow-search {
+    @apply shadow-shadow-search;
+}
+</style>

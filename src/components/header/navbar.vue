@@ -12,7 +12,7 @@ defineProps()
         <div class="w-[72px] h-[22px] font-['Poppins'] font-normal text-base leading-[22px] text-[#FFFFFF]">À propos</div>
     </div>
     <div class="flex flex-row justify-center items-center p-0 gap-6 absolute w-[461px] h-[59px] left-[945px] top-[40px]">
-        <div class="flex flex-row justify-center items-center py-[19px] px-[24px] gap-2.5 w-[159px] h-[60px]  bg-red rounded-[100px]">
+        <div class="flex flex-row justify-center items-center py-[19px] px-[24px] gap-2.5 w-[159px] h-[60px] bg-white/30 rounded-[100px]">
             <p class="w-[111px] h-[22px] font-['Poppins'] font-semibold text-base leading-[22px] flex justify-center items-center text-[#FFFFFF]">06 74 49 03 21</p>
         </div>
         <div class="flex flex-row justify-center items-center py-[12px] px-[16px] gap-2.5 w-[197px] h-[56px]  bg-white rounded-[30px]">
