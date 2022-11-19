@@ -7,7 +7,7 @@ defineProps()
 </script>
 
 <template>
-    <div class="absolute w-[1440px] h-[464px] left-0 top-0"> <img src="img/header/header_bg.png" alt="header background">
+    <div class="h-[517px] w-full left-0 top-0 bg-[url(img/header/header_bg.png)]  bg-center bg-cover lg:h-[464px]">
         <navbar/>
         <description/>
         <search/>
