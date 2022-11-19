@@ -16,7 +16,8 @@ defineProps()
                 <p class="w-[148px] h-[22px] font-['Poppins'] font-semibold text-base leading-[22px] flex justify-center items-center text-white">Je prends contact</p>
             </div>
             <div class="gradient-border flex flex-row justify-center items-center py-[12px] px-[16px] gap-2.5 w-[245px] h-[56px] rounded-[30px]">
-                <p class="w-[217px] h-[22px] font-['Poppins'] font-semibold text-base leading-[22px] flex justify-center items-center text-[#0A0909]">Je télécharger le catalogue</p>
+                <p class="w-[217px] h-[22px] font-['Poppins'] font-semibold text-base leading-[22px] flex justify-center items-center text-[#0A0909] max-[1024px]:hidden">Télécharger le catalogue</p>
+                <p class="w-[217px] h-[22px] font-['Poppins'] font-semibold text-base leading-[22px] flex justify-center items-center text-[#0A0909] lg:hidden">Je télécharge le catalogue</p>
             </div>
         </div>
     </div>
