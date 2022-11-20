@@ -4,7 +4,7 @@ import feedback from "/src/components/body/feedback.vue";
 </script>
 
 <template>
-    <section class="mt-[606px]">
+    <section>
         <h2 class="ml-[80px] font-['NeuzeitGro']">LES PLUS POPULAIRES 🔥</h2>
         <div class="flex mr-[80px] mb-6 justify-end gap-5">
             <img src="/img/body/arrow_left.png" alt="">
