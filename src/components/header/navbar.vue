@@ -4,7 +4,7 @@ defineProps()
 
 <template>
     <div class="flex items-center justify-between pt-14 lg:pt-16 ">
-        <div class="w-full h-5 bg-[url(img/header/header_logo.png)] bg-no-repeat ml-4 lg:ml-8 xl:ml-10 2xl:ml-24"></div>
+        <div class="w-full h-5 bg-[url(img/header/header_logo.png)] bg-no-repeat ml-8 lg:ml-8 xl:ml-10 2xl:ml-24"></div>
         <div class="max-[1350px]:hidden ml-5 w-12 h-[22px] font-['Poppins'] font-normal text-base leading-[22px] text-[#FFFFFF]">Offres</div>
         <div class="max-[1350px]:hidden ml-5 w-[95px] h-[22px] font-['Poppins'] font-bold text-base leading-[22px] text-[#FFFFFF]">Formations</div>
         <div class="max-[1350px]:hidden ml-5 w-[91px] h-[22px] font-['Poppins'] font-normal text-base leading-[22px] text-[#FFFFFF]">Ressources</div>

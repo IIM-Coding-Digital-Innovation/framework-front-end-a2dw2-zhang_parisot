@@ -4,13 +4,13 @@ import feedback from "/src/components/body/feedback.vue";
 </script>
 
 <template>
-    <section class="mt-[160px] ">
-        <h2 class="ml-[80px] font-['NeuzeitGro']">LES PLUS POPULAIRES 🔥</h2>
-        <div class="flex mr-[80px] mb-6 justify-end gap-5">
+    <section class="items-center justify-center mt-[160px]">
+        <h2 class="flex items-center justify-start ml-[30px] xl:ml-[50px] 2xl:ml-[180px] min-[1700px]:ml-[310px] font-['NeuzeitGro'] ">LES PLUS POPULAIRES 🔥</h2>
+        <div class="flex mr-[20px] lg:mr-[120px] min-[1700px]:mr-[320px] mb-6 justify-end gap-5">
             <img src="/img/body/arrow_left.png" alt="">
             <img src="/img/body/arrow_right.png" alt="">
         </div>
-        <section class="flex flex-col place-items-center lg:flex-row ">
+        <section class="flex flex-col items-center justify-center lg:flex-row ">
             <div class="lg:ml-[80px]">
                 <Card abc="/img/body/image_1.png" categorie="Management & Leadership" numemoji="3"/>
             </div>
@@ -26,8 +26,8 @@ import feedback from "/src/components/body/feedback.vue";
         </section>
     </section>    
     <section>
-        <h2 class="ml-[80px] mb-[30px] font-['NeuzeitGro']">TOUTES LES FORMATIONS 🚀</h2>
-        <section class="flex flex-col place-items-center lg:flex-row ">
+        <h2 class="flex items-center justify-start ml-[30px] xl:ml-[50px] 2xl:ml-[180px] min-[1700px]:ml-[310px] mb-[30px] font-['NeuzeitGro']">TOUTES LES FORMATIONS 🚀</h2>
+        <section class="flex flex-col items-center justify-center lg:flex-row ">
             <div class="lg:ml-[80px]">
                 <Card abc="/img/body/image_5.png" categorie="Thématique 1"/>
             </div>
@@ -42,7 +42,7 @@ import feedback from "/src/components/body/feedback.vue";
             </div>
         </section>
     </section>
-    <section class="flex flex-col place-items-center lg:flex-row ">
+    <section class="flex flex-col items-center justify-center lg:flex-row ">
         <div class="lg:ml-[80px]">
             <Card abc="/img/body/image_9.png" categorie="Thématique 1"/>
         </div>
@@ -56,7 +56,7 @@ import feedback from "/src/components/body/feedback.vue";
             <Card abc="/img/body/image_12.png" categorie="Thématique 1" />
         </div>
     </section>
-    <section class="flex flex-col place-items-center lg:flex-row ">
+    <section class="flex flex-col items-center justify-center lg:flex-row ">
         <div class="lg:ml-[80px]">
             <Card abc="/img/body/image_13.png" categorie="Thématique 1"/>
         </div>
@@ -70,7 +70,7 @@ import feedback from "/src/components/body/feedback.vue";
             <Card abc="/img/body/image_16.png" categorie="Thématique 1" />
         </div>
     </section>
-    <div class="flex justify-center justify-end lg:mr-[80px] mt-[30px] gap-6 font-semibold font-['Poppins'] leading-[22px]  text-base items-center">
+    <div class="flex justify-end mr-[20px] lg:mr-[120px] min-[1700px]:mr-[320px] mt-[30px] gap-6 font-semibold font-['Poppins'] leading-[22px]  text-base items-center">
         <div class="border-[#FF6A60] rounded-full border-2 flex w-[36px] h-[36px] justify-center">
             <p class="text-2xl text-[#FF6A60]">1</p>
         </div>

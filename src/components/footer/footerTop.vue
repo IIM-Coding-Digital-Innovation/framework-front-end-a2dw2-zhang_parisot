@@ -4,7 +4,7 @@ defineProps()
 </script>
 
 <template>
-<div class="flex flex-col lg:flex-row lg:ml-4 lg:ml-[80px] ">
+<div class="flex flex-col lg:flex-row  lg:ml-[84px]">
     <div class="lg:w-[208px] h-[90px] mr-6">
         <p class="text-xs ml-4 mt-6 font-normal leading-[18px] font-['Poppins']">Skillsday est un organisme nouvelle génération qui a pour mission de moderniser et digitaliser la formation en entreprise pour former, vraiment !</p>
     </div>
