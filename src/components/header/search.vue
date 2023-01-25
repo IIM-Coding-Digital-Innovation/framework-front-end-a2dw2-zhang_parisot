@@ -10,11 +10,11 @@ defineProps()
             <div class="flex flex-row items-center px-6 py-0 gap-2.5 w-[299px] h-[56px] bg-[#F3EDFB] rounded-[30px] xl:w-[842px] xl:mr-8">
                 <p class="w-[287px] h-[22px] font-['Poppins'] font-normal text-base leading-[22px] ml-6 flex justify-start items-center text-[#0A0909] xl:hidden xl:mr-96 xl:ml-12 ">Quelle formation recherch..</p>
                 <p class="w-[287px] h-[22px] font-['Poppins'] font-normal text-base leading-[22px] flex justify-start items-center text-[#0A0909] max-xl:hidden xl:mr-96 xl:ml-12 ">Quelle formation recherchez-vous ?</p>
-                <img src="./img/header/header_search.png" alt="search">
+                <img src="/img/header/header_search.png" alt="search">
             </div>
             <div class="flex flex-row justify-center items-center py-[12px] px-[16px] gap-2.5 w-[299px] h-[56px] mt-4 bg-[#F3EDFB] rounded-[30px] xl:mt-0 xl:w-[187px]">
                 <p class="w-[44px] h-[22px] font-['Poppins'] font-normal text-base leading-[22px] flex items-center ml-6 mr-[159px] text-[#0A0909] xl:mr-6 xl:ml-6">Filtrer</p>
-                <img src="./img/header/arrow_bottom.png" alt="bottom arrow">
+                <img src="/img/header/arrow_bottom.png" alt="bottom arrow">
             </div>
         </div>
     </div>
