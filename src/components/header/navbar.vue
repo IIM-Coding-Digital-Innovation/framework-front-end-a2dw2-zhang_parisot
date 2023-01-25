@@ -17,6 +17,6 @@ defineProps()
                 <p class="w-[148px] h-[22px] font-['Poppins'] font-semibold text-base leading-[22px] flex justify-center items-center text-[#8D4ED8] ">Je prends contact</p>
             </div>
         </div>
-        <div class="mr-4  2xl:hidden"><img src="img/header/burger.png" alt=""></div>
+        <div class="mr-4  2xl:hidden"><img src="./img/header/burger.png" alt=""></div>
     </div>
 </template>

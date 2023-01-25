@@ -13,9 +13,9 @@ defineProps()
 </div>
 
 <div class="flex lg:mt-0 lg:ml-[350px] ml-[4rem] mt-[80px]">
-    <img class="w-[34px] h-[33px]" src="img/footer/footer_instagram.png" alt="">
-    <img class="ml-[15px] w-[34px] h-[33px]" src="img/footer/footer_linkedin.png" alt="">
-    <img class="ml-[15px] w-[34px] h-[33px]" src="img/footer/footer_podcast.png" alt="">
-    <img class="ml-[15px] w-[34px] h-[33px]" src="img/footer/footer_youtube.png" alt="">
+    <img class="w-[34px] h-[33px]" src="./img/footer/footer_instagram.png" alt="">
+    <img class="ml-[15px] w-[34px] h-[33px]" src="./img/footer/footer_podcast.png" alt="">
+    <img class="ml-[15px] w-[34px] h-[33px]" src="./img/footer/footer_linkedin.png" alt="">
+    <img class="ml-[15px] w-[34px] h-[33px]" src="./img/footer/footer_youtube.png" alt="">
 </div>
 </template>
